@@ -1,31 +1,28 @@
-# development-challenge-four
-Medcloud's challenge for Dev Full Stack
-
-Development challenge
+# Development challenge
 Medcloud's challenge for Dev Full Stack
 
 ## Goal
 
-To develop a web application to manage a collection of patient's information using data persistence.
+To develop a web application to manage patient registers (Patient's name, birth date, email and address) using data persistence.
 
 ## Required
 
 - You need to develop both the front-end and the back-end.
 - In the front-end you MUST use React.
-- In the back-end you are free to use any backend language you are comfortable with.
+- In the back-end you MUST use NodeJS, GoLang or Python.
 - The patient data should not be static or local.
-- List, add, edit and delete operations (CRUD).
+- You're free to choose which persistence mechanism will be used in the challenge (Relational or non-relational database, XML, text file, etc).
 
 ## Extra Points
 
 - Deploy in a cloud platform.
 - Cache the data in-browser.
-- Use Material UI - https://material-ui.com.
+- Use Material UI https://material-ui.com.
 - Make the interface easy to use (UI/UX).
 
 ## Extra Points + 1
 
-AWS free tier (Lambda, API Gateway e DynamoDB).
+Use AWS Free Tier on back-end (Lambda, API Gateway, DynamoDB or RDS).
 
 ## References
 
