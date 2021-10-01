@@ -28,7 +28,7 @@ Use AWS Free Tier on back-end (Lambda, API Gateway, DynamoDB or RDS).
 
 Intro to React: https://reactjs.org/tutorial/tutorial.html
 
-#Delivery
+## Delivery
 
 You can email your code to cv@medcloud.com.br or deliver it through a private GitHub repository.
 
