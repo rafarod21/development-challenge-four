@@ -15,7 +15,7 @@ To develop a web application to manage patient registers (Patient's name, birth 
 
 ## Extra Points
 
-- Deploy in a cloud platform.
+- Deploy in a cloud platform of your choice.
 - Cache the data in-browser.
 - Use Material UI https://material-ui.com.
 - Make the interface easy to use (UI/UX).
