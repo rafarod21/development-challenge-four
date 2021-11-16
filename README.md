@@ -9,9 +9,9 @@ To develop a web application to manage patient registers (Patient's name, birth 
 
 - You need to develop both the front-end and the back-end.
 - In the front-end you MUST use React.
-- In the back-end you MUST use NodeJS, GoLang or Python.
+- In the back-end you MUST use NodeJS or GoLang.
 - The patient data should not be static or local.
-- You're free to choose which persistence mechanism will be used in the challenge (Relational or non-relational database, XML, text file, etc).
+- You're free to choose which persistence mechanism will be used in the challenge (Relational or non-relational database).
 
 ## Extra Points
 
