@@ -13,26 +13,24 @@ Since our foundation, almost 10 years ago, we have prioritized excellence in the
 
 We understand that behind each medical record there is a patient seeking to improve his health and the hope of family members for his well being. After all, we are all patients, and Medcloud's mission is to help you live longer and better. #PatientFirst
 
-Medcloud's challenge for Dev Full Stack
+Medcloud's challenge for Dev Front End
 
 ## Goal
 
-To develop a web application to manage patient registers (Patient's name, birth date, email and address) using data persistence.
+To develop a web application to manage patient registers (Patient's name, birth date, email and address).
 
 ## Required
 
-- You need to develop both the front-end and the back-end.
+- You need to develop the front-end.
 - In the front-end you MUST use React.
-- In the back-end you MUST use NodeJS or GoLang.
-- The patient data should not be static or local.
-- You're free to choose which persistence mechanism will be used in the challenge (Relational or non-relational database).
+- Make the interface easy to use (UI/UX).
+- Use Material UI https://material-ui.com or Tailwind https://tailwindcss.com/
 
 ## Extra Points
 
 - Deploy in a cloud platform of your choice.
+- Develop the back-end using NodeJS or GoLang.
 - Cache the data in-browser.
-- Use Material UI https://material-ui.com.
-- Make the interface easy to use (UI/UX).
 
 ## Extra Points + 1
 
