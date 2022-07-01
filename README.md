@@ -17,13 +17,14 @@ Medcloud's challenge for Dev Front End
 
 ## Goal
 
-To develop a web application to manage patient registers (Patient's name, birth date, email and address).
+To develop a web application (CRUD) to manage patient registers (Patient's name, birth date, email and address).
 
 ## Required
 
 - You need to develop the front-end.
 - In the front-end you MUST use React.
 - Make the interface easy to use (UI/UX).
+- Field validation (date, required fields, etc).
 - Use Material UI https://material-ui.com or Tailwind https://tailwindcss.com/
 
 ## Extra Points
